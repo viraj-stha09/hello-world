@@ -126,7 +126,7 @@ flush();
 $commands = array(
     'echo $PWD',
     'whoami',
-    'git pull origin dev',
+    'git pull',
     'git status',
     'git submodule sync',
     'git submodule update',
